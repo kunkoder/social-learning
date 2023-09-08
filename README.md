@@ -6,28 +6,28 @@ Repository ini berisi projek user interface untuk aplikasi web.
 ## :eyes: Preview
 
 **Home**
-![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/img/preview-home.png)
+![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/assets/img/preview-home.png)
 
 **Register**
-![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/img/preview-register.png)
+![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/assets/img/preview-register.png)
 
 **Login**
-![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/img/preview-login.png)
+![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/assets/img/preview-login.png)
 
 **Category**
-![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/img/preview-category.png)
+![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/assets/img/preview-category.png)
 
 **Create**
-![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/img/preview-create.png)
+![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/assets/img/preview-create.png)
 
 **Detail**
-![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/img/preview-detail.png)
+![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/assets/img/preview-detail.png)
 
 **Discover**
-![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/img/preview-discover.png)
+![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/assets/img/preview-discover.png)
 
 **Profile**
-![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/img/preview-profile.png)
+![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/assets/img/preview-profile.png)
 
 
 ## :balance_scale: Lisensi
