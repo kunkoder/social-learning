@@ -5,14 +5,14 @@ Repository ini berisi projek user interface untuk aplikasi web.
 
 ## :eyes: Preview
 
-**Home**
-![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/assets/img/preview-home.png)
-
 **Register**
 ![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/assets/img/preview-register.png)
 
 **Login**
 ![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/assets/img/preview-login.png)
+
+**Home**
+![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/assets/img/preview-home.png)
 
 **Category**
 ![alt text](https://raw.githubusercontent.com/kunkoder/social-learning/master/assets/img/preview-category.png)
